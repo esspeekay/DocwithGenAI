@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome uipath interview questions for senior ",
+  "Type": "Screen",
+  "Id": "bw4p-nmlo0OdVHFckNxKRw",
+  "Reference": "E_S5NYooWkWCI7s4yFZw8Q/bw4p-nmlo0OdVHFckNxKRw",
+  "ParentRef": "E_S5NYooWkWCI7s4yFZw8Q/zJ-tohG2qUmauA3K8CH5Cw",
+  "Created": "2025-05-13T05:16:36.7141606Z",
+  "Updated": "2025-05-13T05:16:36.7141606Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

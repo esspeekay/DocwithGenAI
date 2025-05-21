@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ItF8LXVGTEKNOxCM2RTjng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="240, 468, 630, 48" FuzzySelectorArgument="&lt;webctrl type='' class='niO4u VDgVie SlP8xc' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Show more' /&gt;" Guid="3b002dfb-08e1-4266-a81d-32b601cbcb1e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='uipath interview questions for senior - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a6a23fce9cfc1889a9df3d8544d0d62a.png" xmlns="">0g-UKwYVviEiMaiHS3IJ9ug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,86 @@
+{
+  "name": "DUProcesswithGenAI",
+  "projectId": "c4869d44-6a55-49f1-85ec-c67d09a2b96b",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DocumentUnderstanding.Activities": "[2.14.0]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.33.0]",
+    "UiPath.Excel.Activities": "[3.0.1]",
+    "UiPath.GSuite.Activities": "[3.0.10]",
+    "UiPath.IntelligentOCR.Activities": "[6.24.0]",
+    "UiPath.OCR.Activities": "[3.22.0]",
+    "UiPath.Persistence.Activities": "[1.6.1]",
+    "UiPath.Pipelines.Activities": "[3.0.0]",
+    "UiPath.SAP.BAPI.Activities": "[3.0.2]",
+    "UiPath.System.Activities": "[25.4.2]",
+    "UiPath.Testing.Activities": "[25.4.0]",
+    "UiPath.UIAutomation.Activities": "[25.10.2]",
+    "UiPath.WebAPI.Activities": "[1.21.1]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.166.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": true,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1f268336-af8f-4d81-9ed3-10aa1300923b",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b7e1b810-3291-4f73-a9b6-9701cec18c71",
+        "dataVariationFilePath": ".variations\\ACME Test_Sheet1_1.json",
+        "testCaseType": "TestCase",
+        "fileName": "SAP\\Login_TestCase.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "2c123341-6da0-41be-a891-fd2215379c87",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
